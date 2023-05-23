@@ -76,7 +76,9 @@ Accessing the Online Book Store:
 To log in and access the features of the Online Book Store, use the following default username and password:
 
 Username: ben
+
 Password: ben23
+
 Note that these are the default credentials provided for demonstration purposes. It is highly recommended to change the default password and create new user accounts with appropriate permissions once you have set up the project.
 
 When logging in with the provided username and password, you will be able to explore the full functionality of the Online Book Store, including browsing books, adding items to the shopping cart, and managing orders.
@@ -87,4 +89,6 @@ Please update the login details and passwords as per your requirements and secur
 
 
 
+![image](https://github.com/gvdnikhil/online_Book_store/assets/86193313/ca257d40-2a27-44ff-be19-d2a650010fe7)
+![image](https://github.com/gvdnikhil/online_Book_store/assets/86193313/3eea858f-f954-4079-ab67-8f7ad3125f5f)
 
