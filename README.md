@@ -91,4 +91,6 @@ Please update the login details and passwords as per your requirements and secur
 
 ![image](https://github.com/gvdnikhil/online_Book_store/assets/86193313/ca257d40-2a27-44ff-be19-d2a650010fe7)
 ![image](https://github.com/gvdnikhil/online_Book_store/assets/86193313/3eea858f-f954-4079-ab67-8f7ad3125f5f)
+![image](https://github.com/gvdnikhil/online_Book_store/assets/86193313/d1c5dde8-940e-47cb-93e6-febaa9822a95)
+![image](https://github.com/gvdnikhil/online_Book_store/assets/86193313/a18d31ed-347d-4e50-a191-36896d65fcfe)
 
